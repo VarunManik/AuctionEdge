@@ -1,0 +1,53 @@
+Group 1:
+A1
+A2
+A3
+A4
+A5
+A6
+
+Group 2:
+B1
+B2
+B3
+B4
+B5
+B6
+
+DAY 1
+
+7:30 -> B5 VS B1
+9:00 -> A1 VS A3
+10:30 -> B2 VS B4
+12:00 -> B6 VS B3
+13:30 -> A4 VS A6
+16:30 -> B4 VS B1
+15:00 -> B3 VS B5
+18:00 -> A1 VS A2 (night)
+19:30 -> A5 VS A6 (night)
+21:00 -> A3 VS A4 (night)
+
+
+
+------------------
+
+7:30 -> A5 VS A1 
+9:00 -> B4 VS B6 
+10:30 -> A2 VS A4 
+12:00 -> A3 VS A6 
+13:30 -> B2 VS B5 
+15:00 -> A4 VS A1 
+16:30 -> A2 VS A5 
+18:00 -> B3 VS B4 (night)
+19:30 -> B1 Vs B2 (night)
+21:00 -> B5 VS B6 (night)
+
+
+
+
+DAY 3
+
+7:30 -> B1 VS B3 
+10:30 -> A2 VS A6 
+9:00 -> A3 VS A5 
+12:00 -> B2 VS B6 

@@ -1,0 +1,1168 @@
+{
+	"TotalPurseValue": 3600000,
+	"MaxPlayersInaTeam": 15,
+	"TeamNames": [
+		"Khalsa Warriors",
+		"Kantrod Kings",
+		"DB Tigers",
+		"Kamda Kings",
+		"Sanjog 11",
+		"Mk Super Kings",
+		"Iconnic 11",
+		"Jaggi Warriors",
+		"BGR Lions",
+		"Smashers",
+		"AAA Fighters",
+		"RK Warriors"
+	],
+	"CategoryModel": {
+		"Icon": {
+			"MaxPlayers": 2,
+			"Base": 300000,
+			"DefaultIncrement": 30000
+		},
+		"A": {
+			"MaxPlayers": 2,
+			"Base": 200000,
+			"DefaultIncrement": 20000
+		},
+		"B": {
+			"MaxPlayers": 4,
+			"Base": 150000,
+			"DefaultIncrement": 10000
+		},
+		"C": {
+			"MaxPlayers": 4,
+			"Base": 100000,
+			"DefaultIncrement": 10000
+		},
+		"D": {
+			"MaxPlayers": 3,
+			"Base": 50000,
+			"DefaultIncrement": 10000
+		},
+		"Unknown":{
+			"MaxPlayers": 0,
+			"Base": 0,
+			"DefaultIncrement": 0
+		}
+	},
+	"FullPlayerList": [
+		{
+			"Name": "dummy",
+			"Category": "Unknown",
+			"Role": "Batsman",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\default.jpg"
+		},
+		{
+			"Name": "Aakash Katariya",
+			"Category": "A",
+			"Role": "ALL_ROUNDER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\aakash_katariya.jpg"
+		},
+		{
+			"Name": "Abhimanyu Nayyar",
+			"Category": "B",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\default.jpg"
+		},
+		{
+			"Name": "Abhishek wai",
+			"Category": "D",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\abhishek_wai.jpg"
+		},
+		{
+			"Name": "Abneesh Kirtani",
+			"Category": "B",
+			"Role": "ALL_ROUNDER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\abneesh_kirtani.jpg"
+		},
+		{
+			"Name": "Ajay Ahuja",
+			"Category": "B",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\default.jpg"
+		},
+		{
+			"Name": "Akash Grover",
+			"Category": "A",
+			"Role": "BOWLER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\akash_grover.jpg"
+		},
+		{
+			"Name": "Akash Pamnani",
+			"Category": "Icon",
+			"Role": "ALL_ROUNDER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\akash_pamnani.jpg"
+		},
+		{
+			"Name": "Akshad Vijjan",
+			"Category": "C",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\akshad_vijjan.jpg"
+		},
+		{
+			"Name": "Akshay Gulati",
+			"Category": "C",
+			"Role": "BOWLER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\akshay_gulati.jpg"
+		},
+		{
+			"Name": "Akshay Kukreja",
+			"Category": "B",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\akshay_kukreja.jpg"
+		},
+		{
+			"Name": "Aman TALREJA",
+			"Category": "C",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\aman_talreja.jpg"
+		},
+		{
+			"Name": "Amit Kukreja",
+			"Category": "B",
+			"Role": "ALL_ROUNDER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\default.jpg"
+		},
+		{
+			"Name": "Amit Tekwani",
+			"Category": "C",
+			"Role": "ALL_ROUNDER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\amit_tekwani.jpg"
+		},
+		{
+			"Name": "Amit Thapar",
+			"Category": "D",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\default.jpg"
+		},
+		{
+			"Name": "Ankit Duggal",
+			"Category": "Icon",
+			"Role": "ALL_ROUNDER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\default.jpg"
+		},
+		{
+			"Name": "Anmol Kukreja",
+			"Category": "B",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\anmol_kukreja.jpeg"
+		},
+		{
+			"Name": "Anuj Bindra",
+			"Category": "Icon",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\anuj_bindra.jpg"
+		},
+		{
+			"Name": "Anuj Vijjan",
+			"Category": "B",
+			"Role": "ALL_ROUNDER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\anuj_vijjan.jpg"
+		},
+		{
+			"Name": "Arun Kantrod",
+			"Category": "D",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\default.jpg"
+		},
+		{
+			"Name": "Ashish Kochher",
+			"Category": "Icon",
+			"Role": "ALL_ROUNDER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\ashish_kochher.jpg"
+		},
+		{
+			"Name": "Bhavesh Sachdev",
+			"Category": "A",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\bhavesh_sachdev.jpeg"
+		},
+		{
+			"Name": "Bhavik Ahuja",
+			"Category": "Icon",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\bhavik_ahuja.jpg"
+		},
+		{
+			"Name": "Bunny Nawlani",
+			"Category": "Icon",
+			"Role": "ALL_ROUNDER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\bunny_nawlani.jpg"
+		},
+		{
+			"Name": "Chetan Nawlani",
+			"Category": "B",
+			"Role": "ALL_ROUNDER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\chetan_navlani.jpg"
+		},
+		{
+			"Name": "Chirag Ahuja",
+			"Category": "A",
+			"Role": "ALL_ROUNDER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\chirag_ahuja.jpg"
+		},
+		{
+			"Name": "Darshan Mehtani",
+			"Category": "C",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\darshan_mehtani.jpg"
+		},
+		{
+			"Name": "Deepak Makhija",
+			"Category": "A",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\deepak_makhija.jpg"
+		},
+		{
+			"Name": "Deepak Sharma",
+			"Category": "Icon",
+			"Role": "ALL_ROUNDER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\deepak_sharma.jpg"
+		},
+		{
+			"Name": "Deepesh Kantrod",
+			"Category": "A",
+			"Role": "ALL_ROUNDER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\deepesh_kantrod.jpg"
+		},
+		{
+			"Name": "Dhruv Sharma",
+			"Category": "C",
+			"Role": "Batsman",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\dhruv_sharma.jpg"
+		},
+		{
+			"Name": "Dinesh Thawani",
+			"Category": "C",
+			"Role": "ALL_ROUNDER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\dinesh_thawani.jpg"
+		},
+		{
+			"Name": "Dipak Arora",
+			"Category": "D",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\deepak_arora.jpg"
+		},
+		{
+			"Name": "Gaurav Kantrod",
+			"Category": "D",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\gaurav_kantrod.jpg"
+		},
+		{
+			"Name": "Gaurav Nayyar",
+			"Category": "Icon",
+			"Role": "ALL_ROUNDER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\default.jpg"
+		},
+		{
+			"Name": "Gautam Singh",
+			"Category": "D",
+			"Role": "ALL_ROUNDER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\default.jpg"
+		},
+		{
+			"Name": "Girish Asnani",
+			"Category": "D",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\default.jpg"
+		},
+		{
+			"Name": "Girish Sadwani",
+			"Category": "B",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\girish_sadwani.jpg"
+		},
+		{
+			"Name": "Harsh Hingorany",
+			"Category": "B",
+			"Role": "ALL_ROUNDER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\harsh_hingorany.jpg"
+		},
+		{
+			"Name": "Harsh Oberoi ",
+			"Category": "D",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\default.jpg"
+		},
+		{
+			"Name": "Harshad Chawla",
+			"Category": "D",
+			"Role": "ALL_ROUNDER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\harshad_chawla.jpg"
+		},
+		{
+			"Name": "Harshad Talreja",
+			"Category": "C",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\harshad_talreja.jpg"
+		},
+		{
+			"Name": "Hiten Nawlani",
+			"Category": "Icon",
+			"Role": "ALL_ROUNDER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\hiten_nawlani.jpg"
+		},
+		{
+			"Name": "Hitesh Darda",
+			"Category": "Icon",
+			"Role": "ALL_ROUNDER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\hitesh_darda.jpg"
+		},
+		{
+			"Name": "Hitesh Oberoi",
+			"Category": "C",
+			"Role": "ALL_ROUNDER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\hitesh_oberoi.jpg"
+		},
+		{
+			"Name": "Hitesh Rajpal",
+			"Category": "C",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\hitesh_rajpal.jpg"
+		},
+		{
+			"Name": "Honey Lalwani",
+			"Category": "C",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\honey_lalwani.jpg"
+		},
+		{
+			"Name": "Inder Bambani",
+			"Category": "D",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\default.jpg"
+		},
+		{
+			"Name": "Iresh Sahani",
+			"Category": "C",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\default.jpg"
+		},
+		{
+			"Name": "Jahan KHANNA",
+			"Category": "B",
+			"Role": "ALL_ROUNDER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\jahan_khanna.jpg"
+		},
+		{
+			"Name": "Jai Rohida",
+			"Category": "B",
+			"Role": "BOWLER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\jai_rohida.jpg"
+		},
+		{
+			"Name": "Jasmit Singh",
+			"Category": "C",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\jasmit_singh.jpg"
+		},
+		{
+			"Name": "Jatin Dembla",
+			"Category": "A",
+			"Role": "ALL_ROUNDER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\default.jpg"
+		},
+		{
+			"Name": "Jatin Sachdev",
+			"Category": "D",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\jatin_sachdev.jpg"
+		},
+		{
+			"Name": "Jatin Vijjan",
+			"Category": "Icon",
+			"Role": "ALL_ROUNDER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\jatin_vijjan.jpg"
+		},
+		{
+			"Name": "Jayesh Sachdev",
+			"Category": "B",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\jayesh_sachdev.jpg"
+		},
+		{
+			"Name": "Jitesh Gulabani",
+			"Category": "A",
+			"Role": "ALL_ROUNDER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\jitesh_gulabani.jpg"
+		},
+		{
+			"Name": "Kailash Ahuja",
+			"Category": "Icon",
+			"Role": "ALL_ROUNDER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\kailash_ahuja.jpg"
+		},
+		{
+			"Name": "Karan Ahuja",
+			"Category": "D",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\default.jpg"
+		},
+		{
+			"Name": "Karan Andani",
+			"Category": "D",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\karan_andani.jpg"
+		},
+		{
+			"Name": "Karan Batra",
+			"Category": "A",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\default.jpg"
+		},
+		{
+			"Name": "Karan Kukreja",
+			"Category": "B",
+			"Role": "ALL_ROUNDER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\karan_kukreja.jpg"
+		},
+		{
+			"Name": "Kartik Dodeja",
+			"Category": "B",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\kartik_dodeja.jpg"
+		},
+		{
+			"Name": "Krish Tanwani",
+			"Category": "C",
+			"Role": "ALL_ROUNDER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\krish_tanwani.jpg"
+		},
+		{
+			"Name": "Krishna Jaggi",
+			"Category": "C",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\default.jpg"
+		},
+		{
+			"Name": "Kuldeep Grover",
+			"Category": "D",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\default.jpg"
+		},
+		{
+			"Name": "Kunal Chopda",
+			"Category": "B",
+			"Role": "ALL_ROUNDER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\kunal_chopra.jpeg"
+		},
+		{
+			"Name": "Kunal Dodeja",
+			"Category": "C",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\kunal_dodeja.jpg"
+		},
+		{
+			"Name": "Kunal Gambhir",
+			"Category": "D",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\kunal_gambhir.jpg"
+		},
+		{
+			"Name": "Kunal Kirtani",
+			"Category": "C",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\kunal_kirthani.jpg"
+		},
+		{
+			"Name": "Kunal Madhyan",
+			"Category": "D",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\kunal_madhyan.jpg"
+		},
+		{
+			"Name": "Kunal Santani",
+			"Category": "A",
+			"Role": "ALL_ROUNDER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\kunal_santani.jpg"
+		},
+		{
+			"Name": "Lucky SAHANI",
+			"Category": "B",
+			"Role": "ALL_ROUNDER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\lucky_sahani.jpg"
+		},
+		{
+			"Name": "Mahesh Ahuja",
+			"Category": "D",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\default.jpg"
+		},
+		{
+			"Name": "Mahesh Narang",
+			"Category": "C",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\default.jpg"
+		},
+		{
+			"Name": "Manindar SALUJA",
+			"Category": "D",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\default.jpg"
+		},
+		{
+			"Name": "Manish Jaswani",
+			"Category": "A",
+			"Role": "ALL_ROUNDER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\manish_jaswani.jpg"
+		},
+		{
+			"Name": "Manish Narang",
+			"Category": "D",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\manish_narang.jpg"
+		},
+		{
+			"Name": "Manoj Dembla",
+			"Category": "B",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\manoj_dembla.jpeg"
+		},
+		{
+			"Name": "Mohit NAVLANI",
+			"Category": "Icon",
+			"Role": "ALL_ROUNDER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\mohit_navlani.jpg"
+		},
+		{
+			"Name": "Mohit Punjabi",
+			"Category": "D",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\default.jpg"
+		},
+		{
+			"Name": "Mohit Purswani",
+			"Category": "C",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\default.jpg"
+		},
+		{
+			"Name": "Mohit Thawani",
+			"Category": "Icon",
+			"Role": "ALL_ROUNDER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\mohit_thawani.jpg"
+		},
+		{
+			"Name": "Monish Ahuja",
+			"Category": "C",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\monish_ahuja.jpg"
+		},
+		{
+			"Name": "Monish Chetwani",
+			"Category": "C",
+			"Role": "ALL_ROUNDER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\monish_chetwani.jpg"
+		},
+		{
+			"Name": "Monish Khubchandani",
+			"Category": "D",
+			"Role": "ALL_ROUNDER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\default.jpg"
+		},
+		{
+			"Name": "Mukesh Bajaj",
+			"Category": "C",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\default.jpg"
+		},
+		{
+			"Name": "Mukesh Khubchandani",
+			"Category": "B",
+			"Role": "ALL_ROUNDER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\mukesh_khubchandani.jpg"
+		},
+		{
+			"Name": "Naman Khatri",
+			"Category": "C",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\naman_khatri.jpg"
+		},
+		{
+			"Name": "Naman Nawlani",
+			"Category": "D",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\naman_nawlani.jpg"
+		},
+		{
+			"Name": "Narayan Arora",
+			"Category": "C",
+			"Role": "ALL_ROUNDER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\narayan_arora.jpg"
+		},
+		{
+			"Name": "Nikhil Bajaj",
+			"Category": "B",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\nikhil_bajaj.jpg"
+		},
+		{
+			"Name": "Nikhil Tanwani",
+			"Category": "D",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\nikhil_tanwani.jpg"
+		},
+		{
+			"Name": "Nikky Bhagwani",
+			"Category": "Icon",
+			"Role": "ALL_ROUNDER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\nicky_bhagwani.jpg"
+		},
+		{
+			"Name": "Nilesh TALREJA",
+			"Category": "A",
+			"Role": "ALL_ROUNDER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\nilesh_talreja.jpg"
+		},
+		{
+			"Name": "Nimish Gulati",
+			"Category": "B",
+			"Role": "ALL_ROUNDER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\nimish_gulati.jpg"
+		},
+		{
+			"Name": "Niraj Nawlani",
+			"Category": "B",
+			"Role": "BOWLER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\niraj_nawlani.jpg"
+		},
+		{
+			"Name": "Nitesh Gabra",
+			"Category": "C",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\nitesh_gabra.jpg"
+		},
+		{
+			"Name": "Nitesh Jaggi",
+			"Category": "C",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\default.jpg"
+		},
+		{
+			"Name": "Nitin G",
+			"Category": "D",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\default.jpg"
+		},
+		{
+			"Name": "Om Andani",
+			"Category": "C",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\default.jpg"
+		},
+		{
+			"Name": "Parab Gulati",
+			"Category": "C",
+			"Role": "ALL_ROUNDER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\parab_gulati.jpg"
+		},
+		{
+			"Name": "Pawan Talreja",
+			"Category": "B",
+			"Role": "ALL_ROUNDER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\pawan_talrega.jpg"
+		},
+		{
+			"Name": "Piyush Kantrod",
+			"Category": "B",
+			"Role": "ALL_ROUNDER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\piyush_kantrod.jpg"
+		},
+		{
+			"Name": "Piyush Wadhwani",
+			"Category": "A",
+			"Role": "ALL_ROUNDER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\piyush_wadhwani.jpg"
+		},
+		{
+			"Name": "Pradeep Singh ",
+			"Category": "B",
+			"Role": "BOWLER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\default.jpg"
+		},
+		{
+			"Name": "Pratham Kaurani",
+			"Category": "C",
+			"Role": "BOWLER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\default.jpg"
+		},
+		{
+			"Name": "Pratik Jaggi",
+			"Category": "D",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\default.jpg"
+		},
+		{
+			"Name": "Pratik Khanna",
+			"Category": "Icon",
+			"Role": "ALL_ROUNDER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\pratik_khanna.jpg"
+		},
+		{
+			"Name": "Prem Rohida",
+			"Category": "B",
+			"Role": "ALL_ROUNDER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\prem_rohida.jpg"
+		},
+		{
+			"Name": "Pritam Singh",
+			"Category": "B",
+			"Role": "ALL_ROUNDER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\pritam_singh.jpg"
+		},
+		{
+			"Name": "Puneet Batra",
+			"Category": "D",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\default.jpg"
+		},
+		{
+			"Name": "Punit Vohra",
+			"Category": "Icon",
+			"Role": "ALL_ROUNDER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\punit_vohra.jpg"
+		},
+		{
+			"Name": "Purav oberoi",
+			"Category": "B",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\default.jpg"
+		},
+		{
+			"Name": "Rahul Hardwani",
+			"Category": "B",
+			"Role": "BOWLER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\rahul_hardwani.jpg"
+		},
+		{
+			"Name": "Rahul Kachhwani",
+			"Category": "B",
+			"Role": "ALL_ROUNDER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\rahul_kachhwani.jpg"
+		},
+		{
+			"Name": "Rahul Poptani",
+			"Category": "Icon",
+			"Role": "ALL_ROUNDER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\rahul_poptani.jpg"
+		},
+		{
+			"Name": "Rahul Punjabi",
+			"Category": "C",
+			"Role": "ALL_ROUNDER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\rahul_punjabi.jpg"
+		},
+		{
+			"Name": "Rajbeer Singh Shahi",
+			"Category": "B",
+			"Role": "ALL_ROUNDER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\rajbeer_shahi.jpg"
+		},
+		{
+			"Name": "Ram LOHANI",
+			"Category": "D",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\ram_lohani.jpg"
+		},
+		{
+			"Name": "Randeep AMAR",
+			"Category": "B",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\default.jpg"
+		},
+		{
+			"Name": "Ravi Tanwani",
+			"Category": "C",
+			"Role": "ALL_ROUNDER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\ravi_tanwani.png"
+		},
+		{
+			"Name": "Ravinder Singh",
+			"Category": "D",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\default.jpg"
+		},
+		{
+			"Name": "Rishab Lakhwani",
+			"Category": "B",
+			"Role": "BOWLER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\rishab_lakhwani.jpg"
+		},
+		{
+			"Name": "Rishi Grover",
+			"Category": "C",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\default.jpg"
+		},
+		{
+			"Name": "Ritesh Bajaj",
+			"Category": "A",
+			"Role": "ALL_ROUNDER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\ritesh_bajaj.jpg"
+		},
+		{
+			"Name": "Ritesh Dembla",
+			"Category": "C",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\ritesh_dembla.jpg"
+		},
+		{
+			"Name": "Ritesh Hiranandani",
+			"Category": "C",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\default.jpg"
+		},
+		{
+			"Name": "Rohan Kukreja",
+			"Category": "B",
+			"Role": "ALL_ROUNDER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\rohan_kukreja.jpg"
+		},
+		{
+			"Name": "Rohit Batheja",
+			"Category": "D",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\rohit_batheja.jpg"
+		},
+		{
+			"Name": "Rohit Tanwani",
+			"Category": "C",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\rohit_tanwani.jpg"
+		},
+		{
+			"Name": "Rohit VIJJAN",
+			"Category": "Icon",
+			"Role": "ALL_ROUNDER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\rohit_vijjan.jpg"
+		},
+		{
+			"Name": "Ronak Kaisar",
+			"Category": "C",
+			"Role": "ALL_ROUNDER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\ronak_kaisar.jpg"
+		},
+		{
+			"Name": "Roshan TALREJA",
+			"Category": "B",
+			"Role": "ALL_ROUNDER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\roshan_talreja.jpg"
+		},
+		{
+			"Name": "Rounak Oberoi",
+			"Category": "D",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\default.jpg"
+		},
+		{
+			"Name": "Ruchit Kukreja",
+			"Category": "B",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\default.jpg"
+		},
+		{
+			"Name": "Rudraksh Wadhwa",
+			"Category": "C",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\default.jpg"
+		},
+		{
+			"Name": "Rupesh Gulati",
+			"Category": "B",
+			"Role": "ALL_ROUNDER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\rupesh_gulati.jpg"
+		},
+		{
+			"Name": "Rupesh Kantrod",
+			"Category": "Icon",
+			"Role": "ALL_ROUNDER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\rupesh_kantrod.jpg"
+		},
+		{
+			"Name": "Sachin Bhagwani",
+			"Category": "A",
+			"Role": "ALL_ROUNDER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\sachin_bhagwani.jpeg"
+		},
+		{
+			"Name": "Safal Chopra",
+			"Category": "C",
+			"Role": "ALL_ROUNDER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\safal_chopra.jpg"
+		},
+		{
+			"Name": "Sagar KUMAR",
+			"Category": "B",
+			"Role": "BOWLER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\sagar__kumar.jpg"
+		},
+		{
+			"Name": "Sagar Sandhana",
+			"Category": "Icon",
+			"Role": "ALL_ROUNDER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\sagar_sandhana.jpg"
+		},
+		{
+			"Name": "Sahil Bajaj",
+			"Category": "Icon",
+			"Role": "ALL_ROUNDER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\sahil_bajaj.jpg"
+		},
+		{
+			"Name": "Sahil Dodeja",
+			"Category": "C",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\sahil_dodeja.jpg"
+		},
+		{
+			"Name": "Sahil Krishnani",
+			"Category": "A",
+			"Role": "ALL_ROUNDER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\sahil_krishnani.jpg"
+		},
+		{
+			"Name": "Sahil Matlai",
+			"Category": "A",
+			"Role": "ALL_ROUNDER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\sahil_matlai.jpg"
+		},
+		{
+			"Name": "Samarth Pardesi",
+			"Category": "D",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\default.jpg"
+		},
+		{
+			"Name": "Sandeep Khubchandani",
+			"Category": "Icon",
+			"Role": "ALL_ROUNDER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\sandeep_khubchandani.jpg"
+		},
+		{
+			"Name": "Sarbhjot Singh Digwa",
+			"Category": "A",
+			"Role": "ALL_ROUNDER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\default.jpg"
+		},
+		{
+			"Name": "Saurabh Ahuja",
+			"Category": "B",
+			"Role": "ALL_ROUNDER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\saurabh_ahuja.jpg"
+		},
+		{
+			"Name": "Sawan Chhabra",
+			"Category": "C",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\sawan_chhabra.jpg"
+		},
+		{
+			"Name": "Sherry Oberoi",
+			"Category": "D",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\sherry_oberoi.jpg"
+		},
+		{
+			"Name": "Shibu Chetry",
+			"Category": "A",
+			"Role": "ALL_ROUNDER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\shibu_chetry.jpg"
+		},
+		{
+			"Name": "Shivkumar Khurana",
+			"Category": "B",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\shivkumar_khurana.jpg"
+		},
+		{
+			"Name": "Shobit Krishnani",
+			"Category": "D",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\default.jpg"
+		},
+		{
+			"Name": "Shubh Abott",
+			"Category": "C",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\default.jpg"
+		},
+		{
+			"Name": "Shubhang Khubchandani",
+			"Category": "B",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\shubhang_khubchandani.jpg"
+		},
+		{
+			"Name": "Sonu Gambhir",
+			"Category": "D",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\sonu_gambhir.jpg"
+		},
+		{
+			"Name": "Sudama Bhagwani",
+			"Category": "D",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\default.jpg"
+		},
+		{
+			"Name": "Sujal Narang",
+			"Category": "C",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\sujal_narang.jpg"
+		},
+		{
+			"Name": "Sumeet Andotra",
+			"Category": "A",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\sumit_andotra.jpg"
+		},
+		{
+			"Name": "Sumesh Jaggi",
+			"Category": "B",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\default.jpg"
+		},
+		{
+			"Name": "Sumit Bajaj",
+			"Category": "B",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\sumit_bajaj.jpg"
+		},
+		{
+			"Name": "Sunny Sukheja",
+			"Category": "C",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\sunny_sukheja.jpg"
+		},
+		{
+			"Name": "Suraj Khosla",
+			"Category": "D",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\suraj_khosla.jpg"
+		},
+		{
+			"Name": "Surender Narang",
+			"Category": "B",
+			"Role": "ALL_ROUNDER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\default.jpg"
+		},
+		{
+			"Name": "Suresh Wadhwa",
+			"Category": "C",
+			"Role": "BOWLER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\suresh_wadhwa.jpg"
+		},
+		{
+			"Name": "Sushil Jaggi",
+			"Category": "C",
+			"Role": "ALL_ROUNDER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\sushil_jaggi.jpg"
+		},
+		{
+			"Name": "Sushil Ramnani",
+			"Category": "Icon",
+			"Role": "ALL_ROUNDER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\sushil_ramnani.jpg"
+		},
+		{
+			"Name": "Tanay Kumar",
+			"Category": "C",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\tanay_kumar.jpg"
+		},
+		{
+			"Name": "Tejas Jaggi",
+			"Category": "D",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\default.jpg"
+		},
+		{
+			"Name": "Ujwal Nawlani",
+			"Category": "A",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\ujwal_nawlani.jpg"
+		},
+		{
+			"Name": "Umesh Kanjan",
+			"Category": "D",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\umesh_kanjan.jpg"
+		},
+		{
+			"Name": "Varun Manik",
+			"Category": "A",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\varun_manik.jpg"
+		},
+		{
+			"Name": "Vicky Kukreja",
+			"Category": "D",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\vicky _kukreja.jpg"
+		},
+		{
+			"Name": "Vijay Wadhwa",
+			"Category": "B",
+			"Role": "ALL_ROUNDER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\vijay_wadhwa.jpg"
+		},
+		{
+			"Name": "Vinay Narang",
+			"Category": "C",
+			"Role": "ALL_ROUNDER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\vinay_narang.jpg"
+		},
+		{
+			"Name": "Vinit Kantrod",
+			"Category": "B",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\default.jpg"
+		},
+		{
+			"Name": "Vinod Bajaj",
+			"Category": "B",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\default.jpg"
+		},
+		{
+			"Name": "Viraj Vijjan",
+			"Category": "A",
+			"Role": "ALL_ROUNDER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\viraj_vijjan.jpg"
+		},
+		{
+			"Name": "Vishal Kewlani",
+			"Category": "C",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\default.jpg"
+		},
+		{
+			"Name": "Yashank Goplani",
+			"Category": "B",
+			"Role": "ALL_ROUNDER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\default.jpg"
+		},
+		{
+			"Name": "Yogesh Dewan",
+			"Category": "D",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\yogesh_dewan.jpg"
+		},
+		{
+			"Name": "Yogesh Japwani",
+			"Category": "A",
+			"Role": "ALL_ROUNDER",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\yogesh_japwani.jpg"
+		},
+        {
+			"Name": "Sujal Dodeja",
+			"Category": "D",
+			"Role": "BATSMAN",
+			"Image Location": "C:\\Users\\Denve\\Desktop\\AuctionHelper\\player-images\\default.jpg"
+		}
+	]
+}
